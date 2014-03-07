@@ -6,8 +6,6 @@
 #
 # 2013-12-21 Matthew Smith <matt@smiffytech.com>
 #
-# This work is licensed under a Creative Commons Attribution 4.0 International License.
-#
 
 use strict;
 use warnings;
